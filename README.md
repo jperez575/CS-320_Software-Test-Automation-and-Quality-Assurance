@@ -7,7 +7,10 @@ This repository includes the Contact Service java files from Project One in it's
 
 ## How can I ensure that my code, program, or sfotware is functional and secure?
 
+Answer
+
 ## How do I interpret user needs and incorporate them into a program?
+Answer
 
 ## How do I approach designing software?
 
